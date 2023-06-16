@@ -1,0 +1,12 @@
+WMP PACKET STRUCTRURE
+
+(offset: 0) HEADER (3 bytes) [0xC0, 0xFF, 0xEE]
+(offset: 3) PACKET ID
+	(offset: 3) PACKET TYPE (1 byte)
+	(offset: 4) PACKET SUBTYPE (1 byte)
+(offset: END) PACKET ENDING (2 bytes) [0xFF, 0x00]
+
+FIELD STRUCTURE
+(offset: 0) FIELD ID (1 byte)
+(offset: 1) FIELD SIZE (1 byte)
+(offset: 2) FIELD CONTENTS
