@@ -1,4 +1,4 @@
-# WMP &middot; [![GitHub License]https://img.shields.io/badge/license-NDA-blue.svg?style=flat-square]()
+# WMP &middot; [![GitHub License](https://img.shields.io/badge/license-NDA-blue.svg?style=flat-square)]()
 
 WMP ("Wired" Message Protocol, Протокол связи "Wired") - протокол связи, который предназначен для шифрованной связи. Данный репозиторий является именно нижним слоем протокола (Реализован поверх UDP)
 
