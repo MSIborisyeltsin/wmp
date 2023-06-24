@@ -36,18 +36,15 @@ WMP ("Wired" Message Protocol, Протокол связи "Wired") - прото
 
 ## <a name="4">Что будет сделано:</a>
 
-- [ ] Директория "Protocol"
-    - [x] Packages
-    - [x] Package Field
-    - [x] Handshake'и
-    - [x] Package Type
-    - [x] PTM
-    - [ ] Инкриптор
-    - [x] Сериализатор
-    - [x] Props.
+- [x] Директория "Protocol"
 - [ ] Тесты
 - [ ] КЛЕЙент
 - [ ] Сервер
+    - [ ] Конфиги (.config, .csproj)
+    - [ ] Альтруист сервера (ConnectedClient.cs)
+    - [ ] Маин (Program.cs)
+    - [ ] Сервер
+    - [x] Пропертии
 
 ## <a name="5">Лицензия</a>
 
