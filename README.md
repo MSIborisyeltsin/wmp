@@ -44,6 +44,8 @@ cd wmp/
     - [ ] Маин (Program.cs)
     - [ ] Сервер
     - [x] Пропертии
+- [ ] .gitignore
+- [ ] .gitattributes       
 
 ## <a name="5">Лицензия</a>
 
