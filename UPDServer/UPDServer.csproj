@@ -57,8 +57,8 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Protocol\Protocol.csproj">
-      <Project>{ea928ef3-f8e8-47d4-a6ac-745251d47fe7}</Project>
-      <Name>XProtocol</Name>
+      <Project>{5707E80C-0E2F-47EC-93C8-AD457D62890F}</Project>
+      <Name>Protocol</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
