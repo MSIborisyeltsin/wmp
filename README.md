@@ -21,7 +21,7 @@ WMP (от англ. "Wired" Message Protocol" — Протокол связи "W
 Перед началом разработки необходимо выполнить:
 
 ```shell
-git clone https://github.com/Joomipoll/wmp.git
+git clone https://github.com/MSIborisyeltsin/wmp.git
 cd wmp/
 ```
 
@@ -55,8 +55,7 @@ NDA
 ## <a name="6">Разработчики</a>
 
 - CryoniXXX — Ведущий разРАБотчик. Тоже пишет фигню, но он ~~не~~ знает об этом (КНДР)
-- Joomipoll — Погромист (Сербия)
-- Sheogorath — кто-то (Россия)
+- Sheogorath — чем-то занимается и хорошо (Россия)
 
 <!-- Долой игры в кошки-мышки. Хоть в разработке научитесь не драться -->
 
